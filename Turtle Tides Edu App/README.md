@@ -1,4 +1,4 @@
-# Sprite Editor
+# Turtle Tides - Educational Game
 Contributors: Milo Atwood, Quinn Sakaleris, Didar Jaff, Adam Kaufmann, Ahmad Al Najjar, Nikiel Meeks
 
 ## Privacy Notice
