@@ -1,4 +1,4 @@
-# Sprite Editor - David and The Johnsons
+# Sprite Editor
 Contributors: Milo Atwood, Quinn Sakaleris, Didar Jaff, Adam Kaufmann, Ahmad Al Najjar, Nikiel Meeks
 
 ## Privacy Notice
